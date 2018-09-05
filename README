@@ -1,0 +1,1 @@
+loghost: configure headnode as a log host, accepting syslog from compute nodes.
